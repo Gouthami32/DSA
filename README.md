@@ -17,4 +17,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Gouthami32/DSA/tree/master/0567-permutation-in-string) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Gouthami32/DSA/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Gouthami32/DSA/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Gouthami32/DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Gouthami32/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
