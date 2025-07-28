@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Gouthami32/DSA/tree/master/0567-permutation-in-string) |
+| [0908-middle-of-the-linked-list](https://github.com/Gouthami32/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Gouthami32/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Gouthami32/DSA/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
