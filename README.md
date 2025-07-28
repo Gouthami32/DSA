@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Gouthami32/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Gouthami32/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/Gouthami32/DSA/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Gouthami32/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Gouthami32/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/Gouthami32/DSA/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Gouthami32/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## String
@@ -44,5 +46,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Gouthami32/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Gouthami32/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Gouthami32/DSA/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
