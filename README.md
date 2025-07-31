@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Gouthami32/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gouthami32/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/Gouthami32/DSA/tree/master/0567-permutation-in-string) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Gouthami32/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Gouthami32/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Gouthami32/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Gouthami32/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Gouthami32/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Gouthami32/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Gouthami32/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -60,4 +63,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Gouthami32/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Gouthami32/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Gouthami32/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Simulation
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Gouthami32/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Gouthami32/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
