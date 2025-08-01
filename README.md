@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gouthami32/DSA/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/Gouthami32/DSA/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gouthami32/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Gouthami32/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/Gouthami32/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gouthami32/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Gouthami32/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gouthami32/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Gouthami32/DSA/tree/master/0141-linked-list-cycle) |
