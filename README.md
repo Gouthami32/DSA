@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Gouthami32/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gouthami32/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0567-permutation-in-string](https://github.com/Gouthami32/DSA/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/Gouthami32/DSA/tree/master/0940-fruit-into-baskets) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Gouthami32/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Gouthami32/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Gouthami32/DSA/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/Gouthami32/DSA/tree/master/0940-fruit-into-baskets) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/Gouthami32/DSA/tree/master/0940-fruit-into-baskets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Gouthami32/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Gouthami32/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Gouthami32/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
