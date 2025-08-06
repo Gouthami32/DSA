@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0860-design-circular-queue](https://github.com/Gouthami32/DSA/tree/master/0860-design-circular-queue) |
 | [0940-fruit-into-baskets](https://github.com/Gouthami32/DSA/tree/master/0940-fruit-into-baskets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Gouthami32/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Gouthami32/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Gouthami32/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gouthami32/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Gouthami32/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0860-design-circular-queue](https://github.com/Gouthami32/DSA/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/Gouthami32/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Gouthami32/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Gouthami32/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -101,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Gouthami32/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Design
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/Gouthami32/DSA/tree/master/0860-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/Gouthami32/DSA/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
