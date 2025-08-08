@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Gouthami32/DSA/tree/master/0567-permutation-in-string) |
+| [3447-clear-digits](https://github.com/Gouthami32/DSA/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3447-clear-digits](https://github.com/Gouthami32/DSA/tree/master/3447-clear-digits) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Gouthami32/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
@@ -117,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gouthami32/DSA/tree/master/0225-implement-stack-using-queues) |
+| [3447-clear-digits](https://github.com/Gouthami32/DSA/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
