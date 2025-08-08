@@ -106,9 +106,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Gouthami32/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0860-design-circular-queue](https://github.com/Gouthami32/DSA/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Gouthami32/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0860-design-circular-queue](https://github.com/Gouthami32/DSA/tree/master/0860-design-circular-queue) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Gouthami32/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
