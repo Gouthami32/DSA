@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Gouthami32/DSA/tree/master/0100-same-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Gouthami32/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -120,4 +121,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gouthami32/DSA/tree/master/0225-implement-stack-using-queues) |
 | [3447-clear-digits](https://github.com/Gouthami32/DSA/tree/master/3447-clear-digits) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Gouthami32/DSA/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Gouthami32/DSA/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Gouthami32/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
