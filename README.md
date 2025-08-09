@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Gouthami32/DSA/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Gouthami32/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Gouthami32/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Gouthami32/DSA/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Gouthami32/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -133,4 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Gouthami32/DSA/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Gouthami32/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
