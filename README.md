@@ -157,4 +157,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gouthami32/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0278-first-bad-version](https://github.com/Gouthami32/DSA/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Gouthami32/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
