@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Gouthami32/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gouthami32/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gouthami32/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0383-ransom-note](https://github.com/Gouthami32/DSA/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Gouthami32/DSA/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Gouthami32/DSA/tree/master/0940-fruit-into-baskets) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Gouthami32/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Gouthami32/DSA/tree/master/0013-roman-to-integer) |
+| [0383-ransom-note](https://github.com/Gouthami32/DSA/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Gouthami32/DSA/tree/master/0567-permutation-in-string) |
 | [3447-clear-digits](https://github.com/Gouthami32/DSA/tree/master/3447-clear-digits) |
 ## Sliding Window
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Gouthami32/DSA/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Gouthami32/DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
