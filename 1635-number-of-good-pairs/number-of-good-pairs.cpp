@@ -1,16 +1,13 @@
 class Solution {
 public:
     int numIdenticalPairs(vector<int>& nums) {
-        int n=nums.size();
-        int cnt=0;
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(nums[i]==nums[j]){
-                    cnt++;
-                }
-            }
-        }
-        return cnt;
-        
+     vector<int>freq(101,0);
+     int cnt=0;
+     for(int num:nums){
+        cnt+=freq[num];
+        freq[num]++;
+
+     }
+     return cnt;
     }
 };
