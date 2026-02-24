@@ -1,21 +1,5 @@
-/*
-
-    Time Complexity : O(N^3), Here three nested loop creates the time complexity. Where N is the size of the
-    string(s).
-
-    Space Complexity : O(1), Constant space.
-
-    Solved using string(Three Nested Loop). Brute Force Approach.
-
-    Note : this may give TLE.
-
-*/
-
-
-/***************************************** Approach 1 *****************************************/
-
 class Solution {
-private: 
+   private: 
     bool check(string &s, int i, int j){
         while(i<j){
             if(s[i] != s[j]){
@@ -42,19 +26,6 @@ public:
             }
         }
         return s.substr(starting_index, max_len);
+        
     }
-}; 
-
-
-
-
-
-
-
-
-
-
-
-    
-
-/***************************************** Approach 3 *****************************************/
+};
