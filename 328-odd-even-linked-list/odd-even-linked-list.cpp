@@ -1,37 +1,45 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-
-            if(head == NULL)
-            return NULL;
-
-        vector<int> odd;
-        vector<int> even;
-
-        ListNode* temp = head;
-
-        int index = 0;
-
-        while(temp != NULL){
-            if(index % 2 == 0)
-                odd.push_back(temp->val);
-            else
-                even.push_back(temp->val);
-
-            temp = temp->next;
-            index++;
+        if(head==NULL)return NULL;
+        vector<int>ans;
+        vector<int>k;
+        vector<int>l;
+        ListNode* temp=head;
+        while(temp!=NULL){
+            ans.push_back(temp->val);
+            temp=temp->next;
         }
+        for(int i=0;i<ans.size();i++){
+            if(i%2==0){
+                k.push_back(ans[i]);
 
-        odd.insert(odd.end(), even.begin(), even.end());
+            }
+            else{
+                l.push_back(ans[i]);
+            }
+              
 
-        ListNode* newHead = new ListNode(odd[0]);
-        ListNode* tail = newHead;
-
-        for(int i = 1; i < odd.size(); i++){
-            tail->next = new ListNode(odd[i]);
-            tail = tail->next;
         }
+         k.insert(k.end(), l.begin(), l.end());
+        ListNode* p=new ListNode(k[0]);
+        ListNode* tail=p;
 
-        return newHead;
+        for(int i=1;i<k.size();i++){
+          tail->next=new ListNode(k[i]);
+          tail=tail->next;
+
+        }
+        return p;
     }
 };
