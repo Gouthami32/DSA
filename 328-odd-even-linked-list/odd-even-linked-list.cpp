@@ -2,7 +2,7 @@ class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
 
-        if(head == NULL)
+            if(head == NULL)
             return NULL;
 
         vector<int> odd;
