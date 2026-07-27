@@ -19,6 +19,5 @@ vector<int>ans;
             ans.push_back(root->val);
         }
         return ans;
-        
     }
 };
