@@ -2,25 +2,32 @@ class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
         vector<int> ans;
+        int n = nums1.size();
+        int m = nums2.size();
 
-        for (int i = 0; i < nums1.size(); i++) {
-            int nextGreater = -1;
+        for (int i = 0; i < n; i++) {
+            bool found = false;
 
-            // find nums1[i] in nums2
-            for (int j = 0; j < nums2.size(); j++) {
-                if (nums2[j] == nums1[i]) {
-                    // search to the right
-                    for (int k = j + 1; k < nums2.size(); k++) {
-                        if (nums2[k] > nums1[i]) {
-                            nextGreater = nums2[k];
+            for (int j = 0; j < m; j++) {
+                if (nums1[i] == nums2[j]) {
+
+                    // Search to the right for the next greater element
+                    for (int k = j + 1; k < m; k++) {
+                        if (nums2[k] > nums2[j]) {
+                            ans.push_back(nums2[k]);
+                            found = true;
                             break;
                         }
                     }
-                    break;
+
+                    if (!found)
+                        ans.push_back(-1);
+
+                    break; // Stop searching after finding nums1[i] in nums2
                 }
             }
-            ans.push_back(nextGreater);
         }
+
         return ans;
     }
 };
